@@ -1,9 +1,8 @@
 # grunt-init [![Build Status](https://secure.travis-ci.org/jorgen.svendsen/grunt-init-node.png?branch=master)](http://travis-ci.org/jorgen.svendsen/grunt-init-node)
 
-grunt-node-testproject
+This is a testproject I created for myself to learn how to setup a testable node project using grunt-init, that also uses coffeescript and mocha. Which also uses Travis CI.
 
 ## Getting Started
-This is a testproject I created for myself to learn how to setup a testable node project using grunt-init, that also uses coffeescript and mocha.
 
 Install the module with: `npm install grunt-init`
 

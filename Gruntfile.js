@@ -41,5 +41,6 @@ module.exports = function(grunt) {
 
   // Default task.
   grunt.registerTask('default', ['coffeelint', 'coffee', 'mochaTest']);
+  grunt.registerTask('test', ['mochaTest']);
 
 };
