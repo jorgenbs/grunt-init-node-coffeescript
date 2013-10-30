@@ -1,4 +1,4 @@
-# grunt-init [![Build Status](https://secure.travis-ci.org/jorgen.svendsen/grunt-init-node.png?branch=master)](http://travis-ci.org/jorgen.svendsen/grunt-init-node)
+# grunt-init ![Build Status](https://travis-ci.org/jorgenbs/grunt-init-node-coffeescript.png)
 
 This is a testproject I created for myself to learn how to setup a testable node project using grunt-init, that also uses coffeescript and mocha. Which also uses Travis CI.
 
