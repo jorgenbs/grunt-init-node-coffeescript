@@ -1,5 +1,5 @@
 {
-  "name": "grunt-init",
+  "name": "grunt-init-node-coffeescript",
   "description": "The best project ever.",
   "version": "0.1.0",
   "homepage": "https://github.com/jorgen.svendsen/grunt-init-node",
