@@ -1,0 +1,2 @@
+exports.hey = () ->
+  return 'awesome'
